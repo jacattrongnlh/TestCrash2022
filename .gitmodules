@@ -1,0 +1,3 @@
+[submodule "GooglePackages"]
+	path = GooglePackages
+	url = https://gitlab.volio.vn/jacat-tech/GooglePackages.git
